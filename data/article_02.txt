@@ -1,0 +1,2 @@
+The multiprocessing module spawns separate processes.
+Each process has its own Python interpreter.

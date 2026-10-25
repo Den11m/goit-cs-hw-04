@@ -1,0 +1,1 @@
+File systems can raise errors: missing files, permissions, bad encodings.

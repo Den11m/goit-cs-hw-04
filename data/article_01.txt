@@ -1,0 +1,2 @@
+Python is a popular programming language.
+Threads share memory inside one process.

@@ -1,0 +1,2 @@
+Concurrency is not parallelism.
+Async code and threads both help with I/O-bound tasks.

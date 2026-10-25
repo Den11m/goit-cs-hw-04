@@ -1,0 +1,2 @@
+Lock objects protect shared data from race conditions.
+A thread acquires the lock before writing.
